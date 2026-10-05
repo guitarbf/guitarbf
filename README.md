@@ -13,5 +13,5 @@
 
 [![skills](https://skillicons.dev/icons?i=py,cpp,js&perline=15)](https://skillicons.dev)
 
-- **languages:** [python · c++ · html · javascript]
+- **languages:** python · c++ · html · javascript
 ---
