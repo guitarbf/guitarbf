@@ -3,7 +3,7 @@
 
 ## about
 
-16 year old software engineer, My project: [veil.](https://yzor.lol) Your privacy your rules. Everything I work on is purely passion projects! Never stop chasing your dreams.
+16 year old software engineer, My project: [aether](https://yzor.lol). Everything I work on is purely passion projects! Never stop chasing your dreams.
 
 🌐 https://yzor.lol · 💬 haku7545@gmail.com
 
