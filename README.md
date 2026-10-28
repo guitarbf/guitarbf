@@ -3,7 +3,7 @@
 
 ## about
 
-16 year old software engineer, My project: [aether](https://yzor.lol). Everything I work on is purely passion projects! Never stop chasing your dreams.
+16 year old software engineer, Currently CEO and Owner at [Aether Client](https://yzor.lol).
 
 🌐 https://yzor.lol · 💬 haku7545@gmail.com
 
